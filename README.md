@@ -69,7 +69,8 @@ This generates an optimized production build in the `build` folder, ready to dep
 
 ## 🌐 Live Demo
 
-- Portfolio: _add your deployed Netlify / Vercel link here_
+- Portfolio:https://beautiful-daifuku-de032f.netlify.app/ 
+- Protfolio :priyankagangavane412.netlify.app
 - Example project links used in this portfolio:
   - Photography Website – `https://gleeful-kheer-17c7ac.netlify.app/`
   - Websums Company – `https://websumssoft.in/`
